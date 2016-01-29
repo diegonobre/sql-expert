@@ -14,7 +14,7 @@ Oracle, PostgreSQL, Microsoft SQL Server e MySQL são alguns dos SGBDs mais util
 
  1. Conceito de banco de dados
  2. Interfaces de acesso
- 3. [Introdução ao SQL](INTRODUCAO-AO-SQL.md)
+ 3. [Introdução ao SQL](introducao_ao_sql.md)
  4. Usando DDL para criar e gerenciar tabelas
  5. Restrições e integridade referencial
  6. Retornando dados com o comando SELECT
