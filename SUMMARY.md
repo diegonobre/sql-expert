@@ -6,4 +6,5 @@
 * [Introdução ao SQL](introducao_ao_sql.md)
 * Usando DDL para criar e gerenciar tabelas
 * Restrições e integridade referencial
+* Retornando dados com o comando SELECT
 
