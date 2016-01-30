@@ -7,4 +7,5 @@
 * Usando DDL para criar e gerenciar tabelas
 * Restrições e integridade referencial
 * Retornando dados com o comando SELECT
+* Restrição e ordenação do retorno de dados
 
