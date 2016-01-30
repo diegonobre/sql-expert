@@ -19,4 +19,5 @@
 * Herança entre tabelas
 * Controle de acesso dos usuários
 * Suporte a expressões regulares
+* Dicionário de dados
 
