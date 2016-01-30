@@ -17,4 +17,5 @@
 * Controle de transações
 * Outros objetos de banco de dados (view, sequence, index...)
 * Herança entre tabelas
+* Controle de acesso dos usuários
 
