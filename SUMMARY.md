@@ -15,6 +15,6 @@
 * Subconsultas
 * Alteração de dados
 * Controle de transações
-* Herança entre tabelas
 * Outros objetos de banco de dados (view, sequence, index...)
+* Herança entre tabelas
 
