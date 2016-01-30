@@ -4,4 +4,5 @@
 * Projeto de Banco de Dados
 * [Introdução ao SQL](introducao_ao_sql.md)
 * Interfaces de acesso
+* Usando DDL para criar e gerenciar tabelas
 
