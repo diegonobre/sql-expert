@@ -3,6 +3,7 @@
 * [Apresentação](README.md)
 * Público Alvo
 * [Projeto de Banco de Dados](capitulos/projeto_de_banco_de_dados.md)
+   * Modelo Conceitual
 * Interfaces de acesso
 * [Introdução ao SQL](capitulos/introducao_ao_sql.md)
 * Usando DDL para criar e gerenciar tabelas
