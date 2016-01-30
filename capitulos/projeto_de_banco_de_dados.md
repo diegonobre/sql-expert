@@ -2,8 +2,8 @@
 
 Em artigo publicado em 2011 entitulado "Persistência Poliglota" ¹, Martin Fowler apresenta uma perspectiva ampla quanto ao tipo de persitência de dados que pode ser utilizada associada a um software.
 
-A imagem a seguir apresenta o tipo de persistência dependendo do tipo de dado que está sendo manipulado:
-![](img/martin_fowler_polyglot_persistence.png)
+A imagem a seguir apresenta o tipo de persistência dependendo do tipo de dado que está sendo manipulado [origem da imagem](http://martinfowler.com/bliki/images/polyglotPersistence/polyglot.png)
+![Speculative Retailers Web Application](img/martin_fowler_polyglot_persistence.png)
 
 Muito tem se falado sobre os bancos de dados não relacionais (noSQL). Não iremos nos aprofundar no conceito de banco não relacional já que o nosso foco aqui é o SQL.
 
