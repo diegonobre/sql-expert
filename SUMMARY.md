@@ -3,7 +3,7 @@
 * [Apresentação](README.md)
 * [Projeto de Banco de Dados](projeto_de_banco_de_dados.md)
 * Interfaces de acesso
-* [Introdução ao SQL](introducao_ao_sql.md)
+* [Introdução ao SQL](capitulos/introducao_ao_sql.md)
 * Usando DDL para criar e gerenciar tabelas
 * Restrições e integridade referencial
 * Retornando dados com o comando SELECT
