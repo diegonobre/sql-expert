@@ -12,4 +12,5 @@
 * Operações de conjuntos
 * Seleção de dados de várias tabelas
 * Operadores
+* Subconsultas
 
