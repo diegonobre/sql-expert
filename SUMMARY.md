@@ -13,4 +13,5 @@
 * Seleção de dados de várias tabelas
 * Operadores
 * Subconsultas
+* Alteração de dados
 
