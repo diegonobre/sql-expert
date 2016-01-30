@@ -15,4 +15,5 @@
 * Subconsultas
 * Alteração de dados
 * Controle de transações
+* Outros objetos de banco de dados (view, sequence, index...)
 
