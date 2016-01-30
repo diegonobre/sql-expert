@@ -4,6 +4,13 @@
 * Público Alvo
 * [Projeto de Banco de Dados](capitulos/projeto_de_banco_de_dados.md)
    * Modelo Conceitual
+   * Modelo Lógico
+   * Abordagem Relacional
+      * Entidade
+      * Relacionamento
+      * Atributo
+      * Generalização/Especialização
+      * Entidade associativa
 * Interfaces de acesso
 * [Introdução ao SQL](capitulos/introducao_ao_sql.md)
 * Usando DDL para criar e gerenciar tabelas
