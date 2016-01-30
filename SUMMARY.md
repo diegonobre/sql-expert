@@ -14,4 +14,5 @@
 * Operadores
 * Subconsultas
 * Alteração de dados
+* Controle de transações
 
