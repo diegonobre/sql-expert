@@ -1,5 +1,7 @@
 # Projeto de Banco de Dados
 
+Este capítulo pretende introduzir o leitor nos conceitos de modelagem conceitual e relacional de bancos de dados. Aqueles que já possuem experiência com no tema podem aproveitar para revisar alguns conceitos ou avançar para o próximo capítulo.
+
 Em artigo publicado em 2011 entitulado "Persistência Poliglota" ¹, Martin Fowler apresenta uma perspectiva ampla quanto ao tipo de persitência de dados que pode ser utilizada associada a um software.
 
 A imagem a seguir apresenta o tipo de persistência dependendo do tipo de dado que está sendo manipulado [origem da imagem](http://martinfowler.com/bliki/images/polyglotPersistence/polyglot.png)
