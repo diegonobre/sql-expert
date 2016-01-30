@@ -13,6 +13,7 @@
 * Seleção de dados de várias tabelas
 * Operadores
 * Subconsultas
+   * Herança entre tabelas
 * Alteração de dados
 * Controle de transações
 * Outros objetos de banco de dados (view, sequence, index...)
