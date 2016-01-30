@@ -1,17 +1,10 @@
 # Projeto de Banco de Dados
 
-## Modelo Conceitual
+Em artigo publicado em 2011 entitulado "Persistência Poliglota" ¹, Martin Fowler apresenta uma perspectiva ampla quanto ao tipo de persitência de dados que pode ser utilizada associada a um software.
 
-## Modelo Lógico
+Muito tem se falado sobre os bancos de dados não relacionais (noSQL). Não iremos nos aprofundar no conceito de banco não relacional já que o nosso foco aqui é o SQL.
 
-## Abordagem Relacional
+Ao iniciar um projeto de software, diferentes metodologias são aplicadas. Quando a escolha da plataforma de persistência é o banco de dados relacional, uma etapa crucial antes de iniciar o desenvolvimento da aplicação é a elaboração do ```Projeto de Banco de Dados```.
 
-### Entidade
 
-### Relacionamento
-
-### Atributo
-
-### Generalização/Especialização
-
-### Entidade associativa
+¹ "Polyglot Persistence" - http://martinfowler.com/bliki/PolyglotPersistence.html. Acessado em 30/01/2016.
