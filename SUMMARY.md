@@ -1,7 +1,7 @@
 # Summary
 
 * [Apresentação](README.md)
-* [Projeto de Banco de Dados](projeto_de_banco_de_dados.md)
+* [Projeto de Banco de Dados](capitulos/projeto_de_banco_de_dados.md)
 * Interfaces de acesso
 * [Introdução ao SQL](capitulos/introducao_ao_sql.md)
 * Usando DDL para criar e gerenciar tabelas
