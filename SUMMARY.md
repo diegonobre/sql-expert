@@ -18,4 +18,5 @@
 * Outros objetos de banco de dados (view, sequence, index...)
 * Herança entre tabelas
 * Controle de acesso dos usuários
+* Suporte a expressões regulares
 
