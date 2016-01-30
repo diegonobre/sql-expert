@@ -11,4 +11,5 @@
 * Usando funções para customizar a saída
 * Operações de conjuntos
 * Seleção de dados de várias tabelas
+* Operadores
 
