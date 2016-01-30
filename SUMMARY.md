@@ -20,5 +20,5 @@
 * Controle de acesso dos usuários
 * Suporte a expressões regulares
 * Dicionário de dados
-* [Referências bibliográficas](referencias_bibliograficas.md)
+* [Referências bibliográficas](capitulos/referencias_bibliograficas.md)
 
