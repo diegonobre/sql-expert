@@ -10,4 +10,5 @@
 * Restrição e ordenação do retorno de dados
 * Usando funções para customizar a saída
 * Operações de conjuntos
+* Seleção de dados de várias tabelas
 
