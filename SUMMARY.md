@@ -1,6 +1,7 @@
 # Summary
 
 * [Apresentação](README.md)
+* Público Alvo
 * [Projeto de Banco de Dados](capitulos/projeto_de_banco_de_dados.md)
 * Interfaces de acesso
 * [Introdução ao SQL](capitulos/introducao_ao_sql.md)
