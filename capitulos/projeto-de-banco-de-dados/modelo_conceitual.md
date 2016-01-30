@@ -6,4 +6,8 @@ Seu objetivo é identificar que informações podem aparecer no banco de dados e
 
 Exemplo de DER:
 ![](../img/der-montadora.png)
+Você pode ler este diagrama da seguinte forma: "Um carro `possui uma` montadora, e uma montadora `possui N` carros`"
 
+No exemplo acima temos `duas entidades` (Carro e Montadora) que são representadas pelos retângulos. O círculo preenchido (bolinha preta pintada) representa o `atributo identificador` da entidade. Os círculos vazios (bolinha branca) representam os `demais atributos` das entidades. O polígono ligando as duas entidades representa a `associação entre as entidades`.
+
+[**Nota**] *disponibilizar lista de itens usados na representação*
