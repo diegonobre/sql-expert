@@ -4,7 +4,7 @@
 * Público Alvo
 * [Projeto de Banco de Dados](capitulos/projeto_de_banco_de_dados.md)
    * [Modelo Conceitual](capitulos/projeto-de-banco-de-dados/modelo_conceitual.md)
-   * Modelo Lógico
+   * [Modelo Lógico](capitulos/projeto-de-banco-de-dados/modelo_logico.md)
    * Abordagem Relacional
        * Entidade
        * Relacionamento
