@@ -12,3 +12,20 @@ Abaixo detalhamos o modelo lógico do diagrama criado no capítulo anterior. Vam
 ## 2 - Modelo Lógico
 Carro (__Codigo__, Nome, Preço, CodigoMontadora);
 Montadora (__Codigo__, Nome);
+
+## 3 - Exemplo de Tabela
+**Montadora**
+
+| Codigo | Nome |
+| -- | -- |
+| 1 | Ford |
+| 2 | Volkswagen |
+
+**Carro**
+
+| Codigo | Nome | Preço | CodigoMontadora |
+| -- | -- |
+| 1 | Ka | 30.000 | 1 |
+| 2 | Gol | 35.000 | 2 |
+| 2 | Voyage | 47.000 | 2 |
+
