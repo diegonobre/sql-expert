@@ -6,11 +6,6 @@
    * [Modelo Conceitual](capitulos/projeto-de-banco-de-dados/modelo_conceitual.md)
    * [Modelo Lógico](capitulos/projeto-de-banco-de-dados/modelo_logico.md)
    * [Abordagem Relacional](capitulos/projeto-de-banco-de-dados/abordagem_relacional.md)
-       * Entidade
-       * Relacionamento
-       * Atributo
-       * Generalização/Especialização
-       * Entidade associativa
 * Interfaces de acesso
 * [Introdução ao SQL](capitulos/introducao_ao_sql.md)
 * Usando DDL para criar e gerenciar tabelas
