@@ -2,6 +2,14 @@
 
 Este capítulo pretende introduzir o leitor nos conceitos de modelagem conceitual e relacional de bancos de dados. Aqueles que já possuem experiência com no tema podem aproveitar para revisar alguns conceitos ou avançar para o próximo capítulo.
 
+Segundo Heuser (1998), um projeto de banco de dados envolve duas fases:
+
+1. Modelagem Conceitual
+  > Captura as necessidades da organização quanto ao armazenamento de dados independente da implementação.
+
+2. Modelagem Lógica
+  > Transforma o modelo conceitual em modelo lógico definindo como o banco de dados será implementado em um SGBD específico.
+
 Em artigo publicado em 2011 entitulado "Persistência Poliglota" ¹, Martin Fowler apresenta uma perspectiva ampla quanto ao tipo de persitência de dados que pode ser utilizada associada a um software.
 
 A imagem a seguir apresenta o tipo de persistência dependendo do tipo de dado que está sendo manipulado [origem da imagem](http://martinfowler.com/bliki/images/polyglotPersistence/polyglot.png)
